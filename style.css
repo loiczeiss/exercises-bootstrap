@@ -1,0 +1,21 @@
+.container { 
+        background-color:  rgb(231, 138, 231);
+        border: solid 1px;
+        border-radius: 12px;   
+}
+
+
+
+            .col-2{ 
+                border: solid 1px; 
+                border-radius: 12px;
+                        }
+                .col-3{ 
+    border: solid 1px; 
+    border-radius: 12px;
+                        }
+
+            .col-4{ 
+    border: solid 1px; 
+    border-radius: 12px;
+                        }
