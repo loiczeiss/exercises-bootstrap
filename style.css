@@ -1,0 +1,22 @@
+.container { 
+   
+   
+    text-align: center;
+    border-radius: 12px;  
+}
+
+
+.col-6{
+    background-color:  rgb(231, 138, 231);
+    border: solid 1px;
+    text-align: center;
+    border-radius: 12px;   
+}
+.border {
+    background-color:  rgb(231, 138, 231);
+    border: solid 1px;
+    text-align: center;
+    border-radius: 12px;   
+
+}
+.col--4 {}
